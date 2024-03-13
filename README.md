@@ -59,10 +59,11 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-![image](https://github.com/LavanyaMuraleedharan/Control-of-Relay-Using-IoT-controller/assets/120103862/46b5c508-293c-4649-9ef2-03682d775008)
+![image](https://github.com/LavanyaMuraleedharan/Control-of-Relay-Using-IoT-controller/assets/120103862/e27a5363-ff06-466c-85cd-f23de19c9fde)
 
 ## OUTPUT:
-![image](https://github.com/LavanyaMuraleedharan/Control-of-Relay-Using-IoT-controller/assets/120103862/e27a5363-ff06-466c-85cd-f23de19c9fde)
+![image](https://github.com/LavanyaMuraleedharan/Control-of-Relay-Using-IoT-controller/assets/120103862/46b5c508-293c-4649-9ef2-03682d775008)
+
 
 ## RESULT:
 
